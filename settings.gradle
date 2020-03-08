@@ -1,0 +1,2 @@
+rootProject.name='LDAM_U2_P1_ZamoraCast'
+include ':app'
